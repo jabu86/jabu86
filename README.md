@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jabu86
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React 
-- 💞️ I’m looking to collaborate on a project if you are need a front end dev
+- 💞️ I’m looking to collaborate on a project if you are in need of a front end dev
 - 📫 How to reach me ...
 
 <!---
